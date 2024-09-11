@@ -1,4 +1,5 @@
 body {
+    background-color:rgb(170, 216, 238);
     font-family: Arial, sans-serif;
     line-height: 1.6;
   }
@@ -9,8 +10,8 @@ body {
   }
   
   nav {
-    background-color: #f1f1f1;
-    padding: 10px;
+    background-color: #b1adad;
+    padding: 20px;
   }
   
   nav ul {
@@ -21,7 +22,7 @@ body {
   nav a {
     text-decoration: none;
     padding: 10px;
-    color: black;
+    color: rgb(20, 11, 11);
   }
   
   nav a:hover {
@@ -31,3 +32,34 @@ body {
   main {
     margin-top: 10px;
   }
+  
+
+  
+  h1 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+  }
+  
+
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 0.5rem;
+  }
+  
+  li::marker {
+    color: #000;
+    font-weight: bold;
+  }
+
+
+
+  li {
+    margin-bottom: 0.5rem;
+  }
+  
+  
