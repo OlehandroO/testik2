@@ -19,5 +19,29 @@
   margin-top: 30px;
 }
 
-  
-  
+.main {
+
+padding: 20px;
+}
+
+.header {
+margin-bottom: 20px;
+
+ 
+
+
+}
+  .logo_text {
+    text-align: center;
+  }
+.logo_img {
+  text-align: left;
+  margin-right: 20px;
+}
+ .logo_button {
+  text-align: right;
+ }
+ .header-logo {
+  display: flex;
+  align-items: center;
+ }
